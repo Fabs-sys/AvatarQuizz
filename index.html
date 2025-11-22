@@ -308,10 +308,6 @@
                 }
             }, [currentQuestion, shuffledQuestions]);
 
-            useEffect(() => {
-                shuffleQuestions();
-            }, []);
-
             const shuffleQuestions = () => {
                 const availableQuestions = quizQuestions.filter(q => !usedQuestions.some(used => used.question === q.question));
 

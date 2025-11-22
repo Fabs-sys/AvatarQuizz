@@ -183,25 +183,25 @@ const quizQuestions = [
     {
         question: "Welches Wesen lehrte die Menschen ursprünglich das Wasserbändigen?",
         answers: ["Himmels-Bisons", "Dachsmaulwürfe", "Vulkan", "Drachen"],
-        correct: 4,
+        correct: 3,
         series: "ATLA"
     },
     {
         question: "Wie heißt Tenzins ältestes Kind?",
         answers: ["Jinora", "Ikki", "Tenzin Junior", "Oogi"],
-        correct: 1,
+        correct: 0,
         series: "Korra"
     },
     {
         question: "Wie heißt Varricks Assistentin?",
         answers: ["Zhu Di", "P'Li", "Zhu Li", "Yin"],
-        correct: 3,
+        correct: 2,
         series: "Korra"
     },
     {
         question: "Wie heißt die Schauspielerin die das Fräulein in Not in den Nuktuk-Filmen spielt?",
         answers: ["Gina", "Ginger", "Helena", "Agnes"],
-        correct: 2,
+        correct: 1,
         series: "Korra"
     }
 ];

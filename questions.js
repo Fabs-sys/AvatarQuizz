@@ -1,4 +1,3 @@
-// All quiz questions
 const quizQuestions = [
     {
         question: "Wie viele Elemente gibt es in der Welt von Avatar?",
